@@ -1,3 +1,2 @@
 #!/bin/bash
-hello/rwxrw_r__.txt
-
+touch hello
